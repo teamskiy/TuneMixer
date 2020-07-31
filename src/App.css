@@ -56,9 +56,9 @@
 }
 
 .App-button-generate {
-  background-color: gray;
+  background-color: white;
   border: none;
-  color: white;
+  color: black;
   padding: 11px 16px;
   margin: 5px;
   text-align: center;
@@ -69,9 +69,9 @@
 }
 
 .App-button-generate-glowing {
-  background-color: gray;
+  background-color: white;
   border: none;
-  color: white;
+  color: black;
   padding: 11px 16px;
   margin: 5px;
   text-align: center;
@@ -83,9 +83,9 @@
 }
 
 .App-button-upload {
-  background-color: gray;
+  background-color: white;
   border: none;
-  color: white;
+  color: black;
   padding: 11px 16px;
   margin: 5px;
   text-align: center;
@@ -256,13 +256,13 @@ input[type=range] {
 
 @keyframes glowing {
   0% {
-    background-color: gray;
+    background-color: white;
   }
   50% {
     background-color: #f39c12;
     box-shadow: 0 0 10px #f39c12;
   }
   100% {
-    background-color: gray;
+    background-color: white;
   }
 }
